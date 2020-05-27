@@ -1,3 +1,4 @@
+[![Board Status](https://yennyocampo.visualstudio.com/008e83a1-2f93-49ab-8d13-5a5a2bddd9c2/7f7a6e2d-fc08-4fc0-bef0-542b27f1ba8d/_apis/work/boardbadge/bd9d4fbf-2ac1-4a66-8576-72d244cf3a67)](https://yennyocampo.visualstudio.com/008e83a1-2f93-49ab-8d13-5a5a2bddd9c2/_boards/board/t/7f7a6e2d-fc08-4fc0-bef0-542b27f1ba8d/Microsoft.RequirementCategory)
 [![Build Status](https://yennyocampo.visualstudio.com/ContosoAir/_apis/build/status/yocampopfe.ContosoAir?branchName=master)](https://yennyocampo.visualstudio.com/ContosoAir/_build/latest?definitionId=41&branchName=master)
 
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
