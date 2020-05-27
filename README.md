@@ -1,3 +1,5 @@
+[![Build Status](https://yennyocampo.visualstudio.com/ContosoAir/_apis/build/status/yocampopfe.ContosoAir?branchName=master)](https://yennyocampo.visualstudio.com/ContosoAir/_build/latest?definitionId=41&branchName=master)
+
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
