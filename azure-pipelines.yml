@@ -6,7 +6,7 @@ steps:
   - task: Npm@1
     inputs:
       command: 'custom'
-      customcommand: 'install --save-dev jest'
+      customcommand: 'install --save-dev jest --production'
   - script: 'npm test'
     displayName: 'Run unit tests'
     continueOnError: true
