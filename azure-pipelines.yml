@@ -7,6 +7,9 @@ steps:
     inputs:
       command: 'custom'
       customcommand: 'install --save-dev jest --production'
+  - script: 'npm audit fix'
+    displayName: 'npm audit fix'
+    continueOnError: true      
   - script: 'npm test'
     displayName: 'Run unit tests'
     continueOnError: true
