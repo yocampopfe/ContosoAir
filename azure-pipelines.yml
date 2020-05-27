@@ -7,7 +7,7 @@ steps:
     inputs:
       command: 'custom'
       customcommand: 'install --save-dev jest --production'
-  - script: 'node_modules\.bin\jest.exe'
+  - script: '"node_modules\.bin\jest" --init'
     displayName: 'Run unit tests'
     continueOnError: true
   - task: PublishTestResults@2
